@@ -49,3 +49,6 @@ Python
 Libraries: Matplotlib / Seaborn / Pandas
 
 Model (if used): Any sentiment analysis model such as TextBlob, VADER, or HuggingFace Transformers.
+
+
+<img width="523" height="393" alt="Image" src="https://github.com/user-attachments/assets/26b990a6-af92-4ee7-9e34-c215e9748728" />
